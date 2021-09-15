@@ -1,0 +1,29 @@
+body {
+    background-color: grey;
+    text-align: center;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    display: table;
+    text-align: left;
+}
+
+
+img {
+    margin: center;
+}
+li {
+    margin-left: 750px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
